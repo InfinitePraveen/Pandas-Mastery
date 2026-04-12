@@ -6,7 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Your notes (keep them private)
-my_notes/
+# my_notes/
 
 # OS files
 .DS_Store
