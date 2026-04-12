@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Your notes (keep them private)
+my_notes/
+
+# OS files
+.DS_Store
+Thumbs.db
