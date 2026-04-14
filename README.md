@@ -1,5 +1,11 @@
 # Pandas Mastery
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+[![Pandas](https://img.shields.io/badge/pandas-2.0%2B-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 ## 📖 About This Repository
 
 This repository documents my **complete learning journey** mastering **Pandas** for Data Manipulation, Analysis, and Visualization. It serves as a comprehensive guide, moving from basic data structures (`Series`, `DataFrame`) to advanced topics like grouping, merging, time series analysis, and practical projects.
@@ -13,6 +19,16 @@ This is a hands-on resource, perfect for:
 ### 🎯 My Learning Philosophy
 
 I believe in learning by doing. This repository contains code, practical exercises, and my own handwritten notes, reflecting a journey from theory to application. Every concept is explored with executable Jupyter notebooks using real-world inspired datasets.
+
+### 📋 Technical Requirements
+
+| Requirement | Version |
+| :--- | :--- |
+| **Python** | 3.8 or higher |
+| **Pandas** | 2.0 or higher |
+| **NumPy** | 1.24 or higher |
+| **Jupyter Notebook** | Latest stable version |
+| **License** | MIT |
 
 * * *
 
