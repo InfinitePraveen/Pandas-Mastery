@@ -3,7 +3,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv("../data/sales.csv")
+df = pd.read_csv("/workspaces/Pandas-Mastery/data/sales.csv")
 
 print("Before cleaning:")
 print(f"Rows: {len(df)}")
@@ -18,5 +18,5 @@ print(f"Rows: {len(df_clean)}")
 print(f"Missing values: {df_clean.isnull().sum().sum()}")
 
 # Save cleaned data
-df_clean.to_csv("../data/cleaned_sales.csv", index=False)
+df_clean.to_csv("/workspaces/Pandas-Mastery/data/cleaned_sales.csv", index=False)
 print("\nSaved cleaned data to 'cleaned_sales.csv'")
