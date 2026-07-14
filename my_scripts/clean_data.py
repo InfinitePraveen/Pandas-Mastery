@@ -3,7 +3,11 @@
 import pandas as pd
 
 # Load data
+<<<<<<< HEAD
+df = pd.read_csv("/data/sales.csv")
+=======
 df = pd.read_csv("/workspaces/Pandas-Mastery/data/sales.csv")
+>>>>>>> 2da5b6044515c7ec78c2ff439ba4d64d3265651e
 
 print("Before cleaning:")
 print(f"Rows: {len(df)}")
