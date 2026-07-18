@@ -1,9 +1,0 @@
-date,product,quantity,price,region,total
-2024-01-15,Laptop,2,1000,North,2000
-2024-01-16,Mouse,5,25,South,125
-2024-01-17,Keyboard,3,75,East,225
-2024-01-18,Monitor,1,400,West,400
-2024-01-19,Laptop,1,1000,North,1000
-2024-01-20,Mouse,10,25,South,250
-2024-01-21,Keyboard,2,75,East,150
-2024-01-22,Monitor,2,400,West,800

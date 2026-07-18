@@ -130,7 +130,7 @@ venv.bak/
 
 # mypy
 main.py
-pyproejct.toml
+pyproject.toml
 uv.lock
 .mypy_cache/
 .dmypy.json
