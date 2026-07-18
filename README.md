@@ -55,6 +55,17 @@ The repository is organized into logical modules to ensure a smooth learning flo
 
 | Folder | Topic | Status | Key Notebooks |
 | :--- | :--- | :--- | :--- |
+| **`notebooks/`** | Core Learning Modules | ✅ Completed | Contains all numbered modules from `01 Basics` to `08 Visualization` |
+| **`exercises/`** | Practice Problems | ✅ Completed | Supplementary exercises for hands-on practice |
+| **`my_scripts/`** | Personal Scripts | ✅ Completed | My personal Python scripts and utilities |
+| **`requirements.txt`** | Dependencies | ✅ Completed | List of all required Python packages |
+
+### Detailed Module Breakdown
+
+The core learning content is organized within the `notebooks/` directory:
+
+| Module | Topic | Status | Key Notebooks |
+| :--- | :--- | :--- | :--- |
 | **`01 Basics`** | Pandas Fundamentals | ✅ Completed | `01_series_dataframe.ipynb`, `02_reading_writing_data.ipynb`, `03_inspecting_dataframes.ipynb` |
 | **`02 Data Cleaning`** | Handling Messy Data | ✅ Completed | `01_handling_missing_values.ipynb`, `02_duplicates_outliers.ipynb`, `03_data_type_conversion.ipynb` |
 | **`03 Data Selection`** | Filtering and Indexing | ✅ Completed | `01_selecting_columns_rows.ipynb`, `02_loc_iloc_differences.ipynb`, `03_conditional_filtering.ipynb` |
@@ -63,11 +74,6 @@ The repository is organized into logical modules to ensure a smooth learning flo
 | **`06 Merging and Joining`** | Combining Datasets | ✅ Completed | `01_concatenation.ipynb`, `02_merging_dataframes.ipynb`, `03_joining_on_index.ipynb` |
 | **`07 Time Series`** | Working with Dates | ✅ Completed | `01_datetime_indexing.ipynb`, `02_resampling_rolling.ipynb`, `03_time_zone_handling.ipynb` |
 | **`08 Visualization`** | Plotting with Pandas | ✅ Completed | `01_line_bar_plots.ipynb`, `02_histogram_boxplot_scatter.ipynb`, `03_customization_subplots.ipynb` |
-| **`09 Practical Assessment`** | Applied Problems | ✅ Completed | Real-world inspired exercises to test your skills |
-| **`10 Experiments`** | Exploration and Testing | ✅ Completed | My personal sandbox for trying out new ideas and edge cases |
-| **`11 HANDWRITTEN NOTES`** | Personal Study Notes | ✅ Completed | Scanned copies of my handwritten notes summarizing key concepts |
-
----
 
 ## 🛠️ Getting Started
 
